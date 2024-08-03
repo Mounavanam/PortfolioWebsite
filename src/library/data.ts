@@ -5,15 +5,20 @@ export const projects = [
     languages: ['Node.js', 'Open-AI API Integration'],
   },
   {
+    title: 'color-contrast-checker',
+    githubUrl: 'https://github.com/Mounavanam/color-contrast-checker.git',
+    languages: ['React.js', 'TypeScript', 'Vite', 'Tailwind CSS'],
+  },
+  {
+    title: 'Customer Segmentation using KMeans',
+    githubUrl: 'https://github.com/Mounavanam/Customer-Segmentation-using-KMeans.git',
+    externalUrl: '',
+    languages: ['Pandas', 'Numpy', 'Scikit-learn', 'Seaborn'],
+  },
+  {
     title: 'Football Match Win Prediction',
     githubUrl: 'https://github.com/Mounavanam/Football-Match-Win-Predictions.git',
     languages: ['Pandas', 'Scikit-learn', 'BeautifulSoup', 'Requests'],
-  },
-  {
-    title: 'Content-Based Movie Recommender Engine',
-    githubUrl: 'https://github.com/Mounavanam/Content-Based-Movie-Recommendation-Engine.git',
-    externalUrl: '',
-    languages: ['Pandas', 'Numpy', 'Scikit-learn'],
   },
   {
     title: 'Iphone 15 Website Clone',
@@ -21,9 +26,10 @@ export const projects = [
     languages: ['React.js', 'Three.js', 'Vite', 'Tailwind CSS', 'Netlify'],
   },
   {
-    title: 'color-contrast-checker',
-    githubUrl: 'https://github.com/Mounavanam/color-contrast-checker.git',
-    languages: ['React.js', 'TypeScript', 'Vite', 'Tailwind CSS'],
+    title: 'Content-Based Movie Recommender Engine',
+    githubUrl: 'https://github.com/Mounavanam/Content-Based-Movie-Recommendation-Engine.git',
+    externalUrl: '',
+    languages: ['Pandas', 'Numpy', 'Scikit-learn'],
   },
 ]
 
