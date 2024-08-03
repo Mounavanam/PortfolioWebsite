@@ -27,7 +27,7 @@ The portfolio is divided into several key sections, each designed to offer a uni
 ### 🏠 Home
 
 - **Access**: Click on the 'Home' link in the navigation bar.
-- **Content**: Displays an introductory animation and the developer's main slogan. Scroll down to start exploring other sections automatically or use the navigation bar for quicker access.
+- **Content**: Displays an introductory animation and my main slogan. Scroll down to start exploring other sections automatically or use the navigation bar for quicker access.
 
 ### 👤 About
 
@@ -39,14 +39,14 @@ The portfolio is divided into several key sections, each designed to offer a uni
 - **Access**: Select 'Projects' from the navigation bar.
 - **Features**:
   - **Project Cards**: Each card represents a project with a brief overview. Click on the GitHub within the cards to explore more about each project.
-  - **Technologies Used**: Each project card also lists the technologies used, giving insights into the skills and tools I am  proficient in.
+  - **Technologies Used**: Each project card also lists the technologies used, giving insights into the skills and tools I am proficient in.
 
 ### 🌐 Socials
 
 - **Access**: Click on 'Socials' in the navigation bar.
 - **Interaction**:
   - This section includes icons linking to various social media platforms and professional profiles.
-  - Click on any icon to be redirected to that specific platform, allowing you to connect to my  updates and professional activities.
+  - Click on any icon to be redirected to that specific platform, allowing you to connect to my updates and professional activities.
 
 ### 📞 Contact
 
