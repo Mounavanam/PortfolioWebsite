@@ -7,6 +7,7 @@ export const projects = [
   {
     title: 'color-contrast-checker',
     githubUrl: 'https://github.com/Mounavanam/color-contrast-checker.git',
+    externalUrl: 'https://color-contrast-checker-omega.vercel.app',
     languages: ['React.js', 'TypeScript', 'Vite', 'Tailwind CSS'],
   },
   {
@@ -23,6 +24,7 @@ export const projects = [
   {
     title: 'Iphone 15 Website Clone',
     githubUrl: 'https://github.com/Mounavanam/Iphone-15',
+    externalUrl: 'https://iphone-15-five.vercel.app',
     languages: ['React.js', 'Three.js', 'Vite', 'Tailwind CSS', 'Netlify'],
   },
   {

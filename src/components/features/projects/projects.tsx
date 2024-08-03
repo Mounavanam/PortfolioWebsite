@@ -25,6 +25,17 @@ const Projects = React.forwardRef<HTMLDivElement>((props, ref) => {
               >
                 <Github />
               </a>
+
+              {project.externalUrl && (
+                <a
+                  target="_blank"
+                  href={project.externalUrl}
+                  rel="noreferrer"
+                  aria-label="externalURL"
+                >
+                  <Link />
+                </a>
+              )}
             </div>
             <p className="project-name">{project.title}</p>
             <div className="project-language">
